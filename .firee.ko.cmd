@@ -1,1 +1,0 @@
-cmd_/media/root/55827D405C7A2670/Projects/Firewall/firee.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.7.0-kali1-common/scripts/module-common.lds --build-id  -o /media/root/55827D405C7A2670/Projects/Firewall/firee.ko /media/root/55827D405C7A2670/Projects/Firewall/firee.o /media/root/55827D405C7A2670/Projects/Firewall/firee.mod.o
